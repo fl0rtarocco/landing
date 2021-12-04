@@ -1,0 +1,32 @@
+.banner-container {
+  width:900px;
+  margin:auto;
+}
+
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  color:white;
+  padding: 200px 50px;
+}
+
+.banner p {
+  font-size: 18px;
+  font-weight: lighter;
+  color: lightgray;
+}
+
+.btn-green {
+  background-color: #23ce81;
+  padding: 16px 36px;
+  color: white;
+  font-weight: lighter;
+  border-radius: 50px;
+  font-size: 16px;
+  display: inline-block;
+}
+
+.btn-green:hover {
+  background-color: #22c079;
+}
